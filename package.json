@@ -7,6 +7,10 @@
     "GPL-3.0.json",
     "package.json"
   ],
+  "keywords": [
+    "jslicense",
+    "license"
+  ],
   "main": "GPL-3.0.json",
   "repository": "jslicense/GPL-3.0",
   "scripts": {
